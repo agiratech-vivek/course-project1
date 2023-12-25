@@ -1,0 +1,38 @@
+body {
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+}
+
+header img {
+  width: 200px;
+  height: 200px;
+}
+
+header h1 {
+  color: blueviolet;
+}
+
+main {
+  color: white;
+  width: 52%;
+  padding: 30px;
+  background-color: blueviolet;
+  text-align: left;
+  margin: 20px auto 10px auto;
+  border-radius: 20px;
+}
+
+main li {
+    list-style: none;
+}
+
+.bullet-points {
+    list-style: circle;
+}
+
+span {
+    background-color: beige;
+    color: black;
+    border-radius: 2px;
+    padding: 3px
+}
